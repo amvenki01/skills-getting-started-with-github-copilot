@@ -1,3 +1,4 @@
+<img width="2100" height="1672" alt="purview_governance_full" src="https://github.com/user-attachments/assets/7c795f39-0114-4412-b0c5-cc47ec75fb98" />
 # Congratulations! :tada:
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
